@@ -8,7 +8,7 @@
 // 6. Go to the console tab.
 // 7. Now write the following code.
 //    var har = Ctrl+v (paste the HARs you copied earlier.)  
-// 8. Wait a few seconds & the write.
+// 8. Wait a few seconds & then write.
 //    har()
 // 9. Then paste the code given below.
 // 10. Hence you will get the link of all the image on the website.
